@@ -1,4 +1,4 @@
-# hailey
+# White Labeled Ski App Idea
 
 ## Project setup
 ```
